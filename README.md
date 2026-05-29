@@ -1,6 +1,5 @@
-# Automações de Tarefas e Bots
+# Automações de tarefas e bots
 Automação em Python utilizando PyAutoGUI e pandas para realizar cadastro automático de produtos em sistema web. O projeto acessa o site, faz login, lê dados de uma planilha CSV e preenche formulários automaticamente, otimizando tarefas repetitivas.
-# Features
 O sistema realiza a automação completa do processo de cadastro de produtos em uma plataforma web, iniciando pela abertura automática do navegador e acesso ao site. A automação executa o login do usuário, realiza a leitura de dados armazenados em um arquivo CSV e preenche automaticamente os campos do formulário de cadastro. Além disso, o projeto possui navegação automatizada entre os campos, tratamento de informações opcionais e otimização de tarefas repetitivas, proporcionando maior agilidade e produtividade no processo.
-# Tecnologias Utilizadas
+# Stacks utilizadas
 O projeto foi desenvolvido utilizando a linguagem Python, com apoio da biblioteca PyAutoGUI para automação de teclado e mouse e da biblioteca pandas para leitura e manipulação dos dados presentes no arquivo CSV.
